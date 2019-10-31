@@ -2,10 +2,9 @@
 
 
 1. To CheckOutput
-``` 
-[a link](https://calendar-contest.herokuapp.com/)
+[](https://calendar-contest.herokuapp.com/)
 
-```
+
 ## Platforms supported
 
 1. Codechef
