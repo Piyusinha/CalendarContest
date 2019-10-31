@@ -2,7 +2,7 @@
 
 
 1. To CheckOutput
-[](https://calendar-contest.herokuapp.com/)
+(https://calendar-contest.herokuapp.com/)
 
 
 ## Platforms supported
