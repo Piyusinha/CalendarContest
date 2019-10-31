@@ -10,4 +10,4 @@ new CronJob('*/10 * * * *', runner).start();
 runner();
 
 
-server.listen(port, () => console.log(`Listening in port ${port}`));
+server.listen(process.env.PORT||3000);
